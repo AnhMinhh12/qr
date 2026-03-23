@@ -1,0 +1,6 @@
+path: C:/Users/hoanh/Downloads/qr_detect/datasets/pallet_qr
+train: images/train
+val: images/val
+
+names:
+  0: qrcode

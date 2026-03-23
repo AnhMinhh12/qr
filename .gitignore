@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# YOLO/Ultralytics
+runs/
+datasets/
+yolov8n.pt
+
+# OpenCV/Results
+wechat_model/
+*_result.jpg
+*_result_final.jpg
+
+# OS
+.DS_Store
+Thumbs.db
